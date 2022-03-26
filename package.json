@@ -1,0 +1,26 @@
+{
+  "name": "ejs-challenge",
+  "version": "1.0.0",
+  "description": "This is just simple blog website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akhmadjon Zukhriddinov",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akhmadjon1/blog-web.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Akhmadjon1/blog-web/issues"
+  },
+  "homepage": "https://github.com/Akhmadjon1/blog-web#readme"
+}
