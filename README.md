@@ -1,6 +1,6 @@
-# Simple blog-web with JS, EJS, CSS, NodeJS
+# Blog-web
 
-
+Simple blog-web with JS, EJS, CSS, NodeJS
 
 
 
