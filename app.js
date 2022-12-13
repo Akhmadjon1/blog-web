@@ -6,11 +6,13 @@ const ejs = require("ejs");
 const mongoose = require("mongoose");
 const _ = require("lodash");
 
+
 const homeStartingContent = "";
 const aboutContent = "";
 const contactContent = "";
 
 const app = express();
+
 
 app.set('view engine', 'ejs');
 
